@@ -1,16 +1,16 @@
-<!-- BANNER -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B16,50:101B35,100:00D9FF&text=Diego%20Azevedo&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Aprendizado&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Banner Diego Azevedo"/>
-
-<a href="https://github.com/iwnldev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+projetos+e+evoluindo+como+dev;Aprendendo+um+commit+de+cada+vez" alt="Apresentação animada"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:080B16,50:101B35,100:00D9FF&text=Diego%20Azevedo&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20APRENDIZADO&descSize=13&descAlignY=65" width="100%" alt="Diego Azevedo - Tecnologia e Desenvolvimento"/>
 
 <br/>
 
+<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
+
+<p>Desenvolvimento Web • Python • Banco de Dados • Aprendizado contínuo</p>
+
 <a href="https://github.com/iwnldev?tab=repositories">
-  <img src="https://img.shields.io/badge/MEUS%20PROJETOS-101B35?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Meus projetos"/>
+  <img src="https://img.shields.io/badge/MEUS_PROJETOS-101B35?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Meus projetos"/>
 </a>
 <a href="https://www.linkedin.com/in/diegoazevedoo/">
   <img src="https://img.shields.io/badge/LINKEDIN-101B35?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
@@ -23,18 +23,18 @@
 
 ---
 
-## `01` — Sobre mim
+## 01. Sobre mim
 
 ```python
 class DiegoAzevedo:
     def __init__(self):
         self.formacao = "Análise e Desenvolvimento de Sistemas"
         self.instituicao = "UNIFAN"
-        self.foco = [
+        self.interesses = [
             "Desenvolvimento Web",
             "Python e lógica de programação",
             "Banco de dados e SQL",
-            "Projetos práticos"
+            "Desenvolvimento de projetos"
         ]
         self.objetivo = "Transformar conhecimento em soluções reais"
 
@@ -44,27 +44,27 @@ class DiegoAzevedo:
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na tecnologia por meio dos estudos, da prática e do desenvolvimento de projetos próprios.
 
-Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em aplicações úteis. Meu objetivo é fortalecer minha base técnica, desenvolver boas práticas de programação e conquistar minha primeira oportunidade profissional na área de tecnologia.
+Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em aplicações úteis. Meu objetivo é fortalecer minha base técnica, aprender boas práticas de programação e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-Atualmente, dedico meu tempo à lógica de programação, ao desenvolvimento web, ao estudo de bancos de dados e à construção de projetos que acompanham minha evolução.
+Atualmente, estou aprimorando meus conhecimentos em lógica de programação, desenvolvimento web, Python e bancos de dados, sempre buscando colocar em prática o que aprendo.
 
-> Meu foco não é apenas aprender uma tecnologia, mas entender como utilizá-la para construir algo que funcione de verdade.
+> Acredito que evoluir como desenvolvedor é um processo contínuo: aprender, praticar, errar e melhorar a cada projeto.
 
 ---
 
-## `02` — Tecnologias e ferramentas
+## 02. Tecnologias e ferramentas
 
 <div align="center">
 
-### Desenvolvimento web
+**Desenvolvimento Web**
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
 
-### Back-end e banco de dados
+**Back-end e Banco de Dados**
 
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite&theme=dark" alt="Python, Flask e SQLite"/>
 
-### Ferramentas de desenvolvimento
+**Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
 
@@ -72,75 +72,78 @@ Atualmente, dedico meu tempo à lógica de programação, ao desenvolvimento web
 
 ---
 
-## `03` — Projetos em destaque
+## 03. Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 DevStudy
+<h3>📚 DevStudy</h3>
 
 **Minha plataforma pessoal de estudos**
 
-Aplicação desenvolvida para organizar conhecimentos, anotações e a rotina de estudos em um só lugar.
+Aplicação que estou desenvolvendo para organizar conhecimentos, anotações e minha rotina de estudos em um só lugar.
 
 - Cadastro, edição e exclusão de anotações.
 - Organização por matérias e categorias.
-- Sistema de favoritos e pesquisa.
-- Planejamento de metas diárias de estudo.
+- Pesquisa e sistema de favoritos.
+- Desenvolvimento de metas diárias de estudo.
+- Persistência de dados em banco de dados.
 
 **Tecnologias:** Python, Flask, SQLite, HTML e CSS.
+
+<a href="https://github.com/iwnldev?tab=repositories">Ver meus repositórios</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfólio pessoal
+<h3>🌐 Portfólio pessoal</h3>
 
 **Minha presença profissional na web**
 
 Site desenvolvido para apresentar minha trajetória, habilidades, experiências e projetos na área de tecnologia.
 
-- Interface responsiva.
 - Apresentação profissional.
-- Seção de projetos e habilidades.
-- Integração com meus canais de contato.
+- Seções de habilidades e projetos.
+- Interface adaptável a diferentes telas.
+- Integração com canais de contato.
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-[↗ Acessar portfólio](https://iwnldev.github.io/Portf-lio-Diego/)
+<a href="https://iwnldev.github.io/Portf-lio-Diego/">Acessar portfólio →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetLife
+<h3>🐾 PetLife</h3>
 
-**Projeto de desenvolvimento web**
+**Prática de desenvolvimento web**
 
-Projeto criado durante meus estudos de desenvolvimento web, aplicando conceitos de estruturação e estilização de páginas.
+Projeto desenvolvido durante meus estudos, com foco na construção de páginas web e na aplicação de fundamentos de HTML e CSS.
 
-- Estruturação de páginas web.
+- Estruturação de páginas.
 - Organização de conteúdo.
-- Prática com HTML e CSS.
+- Prática de estilização e layout.
 
-[↗ Ver repositório](https://github.com/iwnldev/PetLife)
+<a href="https://github.com/iwnldev/PetLife">Ver repositório →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Próximos desafios
+<h3>⚡ Próximos desafios</h3>
 
-**Evoluindo na prática**
+**Aprendizado na prática**
 
-Quero continuar desenvolvendo aplicações que ampliem meus conhecimentos em programação e me aproximem de desafios reais do mercado.
+Continuo estudando e planejando projetos para ampliar meus conhecimentos e desenvolver aplicações mais completas.
 
 - Aprofundar Python e JavaScript.
 - Evoluir em SQL e modelagem de dados.
-- Melhorar arquitetura e organização de código.
-- Criar aplicações cada vez mais completas.
+- Melhorar a organização e a qualidade do código.
+- Construir soluções para problemas reais.
 
-[↗ Explorar todos os repositórios](https://github.com/iwnldev?tab=repositories)
+<a href="https://github.com/iwnldev?tab=repositories">Explorar todos os projetos →</a>
 
 </td>
 </tr>
@@ -148,41 +151,41 @@ Quero continuar desenvolvendo aplicações que ampliem meus conhecimentos em pro
 
 ---
 
-## `04` — Estatísticas do GitHub
+## 04. Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iwnldev&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&ring_color=00D9FF&include_all_commits=true" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iwnldev&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&ring_color=00D9FF&include_all_commits=true" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwnldev&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=E6EDF3&langs_count=8" alt="Linguagens mais utilizadas"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwnldev&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=E6EDF3&langs_count=8" alt="Linguagens mais utilizadas"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=iwnldev&theme=transparent&hide_border=true&background=080B16&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB4" alt="Sequência de contribuições"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iwnldev&bg_color=080B16&color=E6EDF3&line=00D9FF&point=FFFFFF&area=true&area_color=101B35&hide_border=true&custom_title=Atividade%20no%20GitHub" width="95%" alt="Gráfico de atividade no GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iwnldev&bg_color=080B16&color=E6EDF3&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" width="95%" alt="Gráfico de atividade no GitHub"/>
 
 </div>
 
 ---
 
-## `05` — Além do código
+## 05. Além do código
 
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas.
-- 📖 Aprendizado contínuo em programação e tecnologia.
-- 🧠 Interesse em resolução de problemas e raciocínio lógico.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFAN.
+- 📚 Aprendizado contínuo em programação e tecnologia.
+- 🧠 Interesse em lógica, resolução de problemas e desenvolvimento de software.
 - 🌎 Estudando inglês para ampliar minhas oportunidades.
-- 🛠️ Aprendendo na prática por meio de projetos pessoais.
+- 🛠️ Desenvolvendo projetos pessoais para consolidar meus conhecimentos.
 
 ---
 
-## `06` — Vamos nos conectar?
+## 06. Vamos nos conectar?
 
 <div align="center">
 
-Estou sempre aberto a trocar conhecimentos, conhecer outros desenvolvedores e descobrir novas oportunidades de aprendizado e crescimento profissional.
+Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer pessoas que compartilham o interesse por tecnologia e desenvolvimento de software.
 
 <a href="https://github.com/iwnldev">
   <img src="https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
@@ -196,7 +199,9 @@ Estou sempre aberto a trocar conhecimentos, conhecer outros desenvolvedores e de
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:080B16,50:00D9FF,100:080B16" width="100%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:080B16,50:00D9FF,100:080B16" width="100%" alt="Separador"/>
+
+<br/>
 
 *"A melhor forma de aprender a programar é construindo, errando e melhorando a cada projeto."*
 
