@@ -110,7 +110,7 @@ Desenvolver soluções úteis
 
 ### Back-end e Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite&theme=dark" alt="Python, Flask e SQLite"/>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql&theme=dark" alt="Python, Flask e MySQL"/>
 
 ### Ferramentas
 
@@ -144,7 +144,7 @@ Plataforma pessoal de estudos que estou desenvolvendo para organizar conheciment
 
 **Tecnologias**
 
-`Python` `Flask` `SQLite` `HTML` `CSS`
+`Python` `Flask` `MySQL` `HTML` `CSS`
 
 <a href="https://github.com/iwnldev?tab=repositories">↗ Explorar meus repositórios</a>
 
@@ -241,7 +241,7 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web, com foco na es
 
 <img src="https://img.shields.io/badge/LÓGICA_DE_PROGRAMAÇÃO-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Lógica de programação"/>
 <img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="Desenvolvimento web"/>
-<img src="https://img.shields.io/badge/BANCO_DE_DADOS-0B1220?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="Banco de dados"/>
+<img src="https://img.shields.io/badge/BANCO_DE_DADOS-0B1220?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="Banco de dados"/>
 <img src="https://img.shields.io/badge/INGLÊS-0B1220?style=for-the-badge&logo=duolingo&logoColor=22D3EE" alt="Inglês"/>
 
 </div>
