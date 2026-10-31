@@ -1,15 +1,16 @@
-
 <!-- ======================================================= -->
 <!--                 DIEGO AZEVEDO | README                  -->
 <!-- ======================================================= -->
 
 <div align="center">
 
-<!-- BANNER PROFISSIONAL -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B16,45:14213D,75:075985,100:06B6D4&text=DIEGO%20AZEVEDO&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA&descSize=14&descAlignY=59&animation=fadeIn" alt="Diego Azevedo | Desenvolvimento de Software"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B16,40:14213D,75:075985,100:06B6D4&text=DIEGO%20AZEVEDO&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20TECNOLOGIA&descSize=14&descAlignY=59&animation=fadeIn" alt="Diego Azevedo | Desenvolvimento de Software"/>
 
 <br/>
+
+<strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
+
+<p>Desenvolvimento Web · Python · Banco de Dados · Aprendizado contínuo</p>
 
 <a href="https://github.com/iwnldev">
 <img src="https://img.shields.io/badge/GitHub-iwnldev-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
@@ -23,27 +24,25 @@
 
 <br/><br/>
 
-**Estudante de Análise e Desenvolvimento de Sistemas**
-
 Construindo conhecimento, desenvolvendo projetos e evoluindo um commit de cada vez.
 
 </div>
 
 ---
 
-## `01` — Sobre mim
+## 01 — Sobre mim
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIFAN** e estou construindo minha trajetória profissional na área de tecnologia.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIFAN** e estou construindo minha trajetória na área de tecnologia.
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web, lógica de programação e bancos de dados. Busco transformar o conhecimento adquirido nos estudos em projetos práticos, desenvolvendo minhas habilidades e aprendendo a construir aplicações cada vez melhores.
+Tenho interesse em desenvolvimento de software, desenvolvimento web, lógica de programação e bancos de dados. Gosto de entender como as coisas funcionam, resolver problemas e transformar o conhecimento adquirido nos estudos em projetos práticos.
 
-Atualmente, estou focado em:
+Atualmente, estou direcionando meus estudos para:
 
-- 💻 Aprimorar meus conhecimentos em programação e desenvolvimento web.
-- 🐍 Estudar Python, lógica de programação e desenvolvimento back-end.
-- 🗄️ Aprender sobre SQL, bancos de dados e persistência de informações.
-- 🛠️ Desenvolver projetos pessoais para aplicar meus conhecimentos.
-- 📚 Evoluir continuamente e me preparar para oportunidades profissionais em tecnologia.
+- 💻 Desenvolvimento web e fundamentos de programação.
+- 🐍 Python, lógica de programação e desenvolvimento back-end.
+- 🗄️ SQL, bancos de dados e persistência de informações.
+- 🛠️ Construção de projetos pessoais para aplicar o que aprendo.
+- 🌎 Inglês e aprimoramento contínuo para ampliar minhas oportunidades.
 
 <div align="center">
 
@@ -51,7 +50,7 @@ Atualmente, estou focado em:
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/01-FORMACAO-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Formação"/>
+<img src="https://img.shields.io/badge/01-FORMAÇÃO-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Formação"/>
 
 <br/><br/>
 
@@ -66,17 +65,17 @@ Análise e Desenvolvimento de Sistemas
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/02-TECNOLOGIA-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Tecnologia"/>
+<img src="https://img.shields.io/badge/02-FOCO_ATUAL-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Foco atual"/>
 
 <br/><br/>
 
 💻
 
-**Foco atual**
+**Tecnologia**
 
 Desenvolvimento Web e Python
 
-<sub>Aprendizado prático</sub>
+<sub>Aprendizado na prática</sub>
 
 </td>
 <td align="center" width="33%">
@@ -89,9 +88,9 @@ Desenvolvimento Web e Python
 
 **Objetivo**
 
-Criar soluções úteis
+Desenvolver soluções úteis
 
-<sub>Evolução profissional</sub>
+<sub>Crescimento profissional</sub>
 
 </td>
 </tr>
@@ -101,7 +100,7 @@ Criar soluções úteis
 
 ---
 
-## `02` — Tecnologias e ferramentas
+## 02 — Tecnologias e ferramentas
 
 <div align="center">
 
@@ -113,7 +112,7 @@ Criar soluções úteis
 
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite&theme=dark" alt="Python, Flask e SQLite"/>
 
-### Ambiente de desenvolvimento
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
 
@@ -121,7 +120,7 @@ Criar soluções úteis
 
 ---
 
-## `03` — Projetos em destaque
+## 03 — Projetos em destaque
 
 <div align="center">
 
@@ -131,17 +130,17 @@ Criar soluções úteis
 
 <h3>📚 DevStudy</h3>
 
-<img src="https://img.shields.io/badge/PROJETO%20PESSOAL-164E63?style=flat-square&labelColor=0B1220" alt="Projeto pessoal"/>
+<img src="https://img.shields.io/badge/PROJETO_PESSOAL-164E63?style=flat-square&labelColor=0B1220" alt="Projeto pessoal"/>
 
-Plataforma pessoal de estudos que estou desenvolvendo para organizar conhecimentos, anotações e metas diárias em um único ambiente.
+Plataforma pessoal de estudos que estou desenvolvendo para organizar conhecimentos, anotações e a rotina de aprendizagem em um único ambiente.
 
-**Funcionalidades em desenvolvimento:**
+**Funcionalidades trabalhadas:**
 
-- Gerenciamento de anotações.
+- Cadastro, edição e exclusão de anotações.
 - Organização por matérias e categorias.
-- Pesquisa e favoritos.
+- Pesquisa e sistema de favoritos.
 - Metas diárias de estudo.
-- Armazenamento persistente de informações.
+- Persistência de informações em banco de dados.
 
 **Tecnologias**
 
@@ -154,12 +153,12 @@ Plataforma pessoal de estudos que estou desenvolvendo para organizar conheciment
 
 <h3>🌐 Portfólio pessoal</h3>
 
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO%20WEB-164E63?style=flat-square&labelColor=0B1220" alt="Desenvolvimento web"/>
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-164E63?style=flat-square&labelColor=0B1220" alt="Desenvolvimento web"/>
 
-Site pessoal criado para apresentar minha trajetória, habilidades, formação e projetos na área de tecnologia.
+Site desenvolvido para apresentar minha trajetória, formação, habilidades, experiências e projetos na área de tecnologia.
 
 - Apresentação profissional.
-- Seção de habilidades e projetos.
+- Seções de habilidades e projetos.
 - Layout adaptável a diferentes telas.
 - Links para contato e redes profissionais.
 
@@ -176,7 +175,7 @@ Site pessoal criado para apresentar minha trajetória, habilidades, formação e
 
 <h3>🐾 PetLife</h3>
 
-<img src="https://img.shields.io/badge/PRATICA%20DE%20HTML%20E%20CSS-164E63?style=flat-square&labelColor=0B1220" alt="Prática de desenvolvimento"/>
+<img src="https://img.shields.io/badge/PRÁTICA_DE_HTML_E_CSS-164E63?style=flat-square&labelColor=0B1220" alt="Prática de desenvolvimento"/>
 
 Projeto desenvolvido durante meus estudos de desenvolvimento web, com foco na estruturação e estilização de páginas.
 
@@ -191,16 +190,16 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web, com foco na es
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ Próximos desafios</h3>
+<h3>⚡ Em constante evolução</h3>
 
-<img src="https://img.shields.io/badge/EM%20EVOLUCAO-164E63?style=flat-square&labelColor=0B1220" alt="Em evolução"/>
+<img src="https://img.shields.io/badge/APRENDIZADO_CONTÍNUO-164E63?style=flat-square&labelColor=0B1220" alt="Aprendizado contínuo"/>
 
-Continuo estudando e criando novos desafios para consolidar minha base técnica.
+Meus próximos passos são aprofundar a base técnica e desenvolver aplicações cada vez mais completas.
 
 - Aprofundar Python e JavaScript.
 - Evoluir em SQL e modelagem de dados.
-- Aprender boas práticas de desenvolvimento.
-- Criar aplicações completas para problemas reais.
+- Praticar boas práticas de desenvolvimento.
+- Criar soluções para problemas reais.
 
 <a href="https://github.com/iwnldev?tab=repositories">↗ Ver todos os projetos</a>
 
@@ -212,7 +211,7 @@ Continuo estudando e criando novos desafios para consolidar minha base técnica.
 
 ---
 
-## `04` — Estatísticas do GitHub
+## 04 — Estatísticas do GitHub
 
 <div align="center">
 
@@ -232,28 +231,28 @@ Continuo estudando e criando novos desafios para consolidar minha base técnica.
 
 ---
 
-## `05` — Aprendizado contínuo
+## 05 — Aprendizado contínuo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LOGICA%20DE%20PROGRAMACAO-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Lógica de programação"/>
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO%20WEB-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="Desenvolvimento web"/>
-<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-0B1220?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="Banco de dados"/>
-<img src="https://img.shields.io/badge/INGLES-0B1220?style=for-the-badge&logo=duolingo&logoColor=22D3EE" alt="Inglês"/>
+<img src="https://img.shields.io/badge/LÓGICA_DE_PROGRAMAÇÃO-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Lógica de programação"/>
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="Desenvolvimento web"/>
+<img src="https://img.shields.io/badge/BANCO_DE_DADOS-0B1220?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="Banco de dados"/>
+<img src="https://img.shields.io/badge/INGLÊS-0B1220?style=for-the-badge&logo=duolingo&logoColor=22D3EE" alt="Inglês"/>
 
 </div>
 
-Acredito que a evolução profissional acontece por meio da consistência, da prática e da disposição para aprender coisas novas. Por isso, procuro equilibrar minha formação acadêmica com cursos, estudos individuais e projetos pessoais.
+Acredito que a evolução profissional acontece por meio da consistência, da prática e da disposição para aprender. Por isso, procuro equilibrar minha formação acadêmica com cursos, estudos individuais e projetos pessoais.
 
 ---
 
-## `06` — Vamos nos conectar?
+## 06 — Vamos nos conectar?
 
 <div align="center">
 
 **Tecnologia aproxima pessoas e transforma ideias em soluções.**
 
-Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer pessoas que compartilham o interesse por desenvolvimento de software.
+Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer pessoas que compartilham o interesse por tecnologia e desenvolvimento de software.
 
 <br/>
 
@@ -264,7 +263,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer pessoas qu
 <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 <a href="https://iwnldev.github.io/Portf-lio-Diego/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfólio"/>
+<img src="https://img.shields.io/badge/PORTFÓLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfólio"/>
 </a>
 
 <br/><br/>
