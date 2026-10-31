@@ -151,6 +151,29 @@ Plataforma pessoal de estudos que estou desenvolvendo para organizar conheciment
 </td>
 <td width="50%" valign="top">
 
+<h3>🚗 AutoPark</h3>
+
+<img src="https://img.shields.io/badge/PROJETO_ACADÊMICO-164E63?style=flat-square&labelColor=0B1220" alt="Projeto acadêmico"/>
+
+Sistema de gerenciamento de estacionamento desenvolvido como projeto acadêmico para a disciplina de **Banco de Dados**, com a proposta de organizar as informações e operações de um estacionamento.
+
+**Objetivo do projeto:**
+
+- Estruturar os dados de um estacionamento.
+- Aplicar conceitos de banco de dados na prática.
+- Desenvolver uma solução para apoiar o gerenciamento do estacionamento.
+
+**Foco de estudo**
+
+`Banco de Dados` `Modelagem de Dados` `SQL`
+
+<sub>Projeto em desenvolvimento acadêmico.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <h3>🌐 Portfólio pessoal</h3>
 
 <img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-164E63?style=flat-square&labelColor=0B1220" alt="Desenvolvimento web"/>
@@ -169,8 +192,6 @@ Site desenvolvido para apresentar minha trajetória, formação, habilidades, ex
 <a href="https://iwnldev.github.io/Portf-lio-Diego/">↗ Acessar portfólio</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3>🐾 PetLife</h3>
@@ -188,27 +209,10 @@ Projeto desenvolvido durante meus estudos de desenvolvimento web, com foco na es
 <a href="https://github.com/iwnldev/PetLife">↗ Ver repositório</a>
 
 </td>
-<td width="50%" valign="top">
-
-<h3>⚡ Em constante evolução</h3>
-
-<img src="https://img.shields.io/badge/APRENDIZADO_CONTÍNUO-164E63?style=flat-square&labelColor=0B1220" alt="Aprendizado contínuo"/>
-
-Meus próximos passos são aprofundar a base técnica e desenvolver aplicações cada vez mais completas.
-
-- Aprofundar Python e JavaScript.
-- Evoluir em SQL e modelagem de dados.
-- Praticar boas práticas de desenvolvimento.
-- Criar soluções para problemas reais.
-
-<a href="https://github.com/iwnldev?tab=repositories">↗ Ver todos os projetos</a>
-
-</td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 04 — Estatísticas do GitHub
