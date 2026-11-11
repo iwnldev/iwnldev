@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Imagem 1: Banner Superior (Shikamaru no telhado) -->
-  <img width="100%" src="./banner.jpg?v=2" alt="Banner Shikamaru Nara" />
+  <img width="100%" src="./banner.jpg" alt="Banner Shikamaru Nara" />
 
   <br/><br/>
 
