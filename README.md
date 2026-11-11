@@ -109,8 +109,11 @@ Antes de mergulhar no desenvolvimento de software, atuei em cartório de registr
 ### 📊 Métricas & Consistência
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iwnldev&show_icons=true&theme=slateorange&hide_border=true&bg_color=0f172a&title_color=E07A5F&icon_color=E07A5F&text_color=cbd5e1" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwnldev&layout=compact&theme=slateorange&hide_border=true&bg_color=0f172a&title_color=E07A5F&text_color=cbd5e1" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iwnldev&theme=flat&no-frame=true&no-bg=true&margin_w=4" alt="Troféus GitHub" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwnldev&theme=react-dark&bg_color=1e293b&color=e07a5f&line=e07a5f&point=cbd5e1&hide_border=true" width="95%" alt="Gráfico de Atividade" />
 </div>
 
 <br/>
