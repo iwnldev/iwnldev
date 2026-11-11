@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Superior -->
-  <img width="100%" src="./banner.jpg" alt="Banner Shikamaru Nara" style="border-radius: 10px;" />
+  <!-- Imagem 1: Banner Superior (Shikamaru no telhado) -->
+  <img width="100%" src="./banner.jpg?v=2" alt="Banner Shikamaru Nara" />
 
   <br/><br/>
 
@@ -11,7 +11,7 @@
 
   <br/>
 
-  <!-- Links e Redes em Badges Escuros -->
+  <!-- Links e Redes -->
   <a href="https://iwnldev.github.io/Portf-lio-Diego/">
     <img src="https://img.shields.io/badge/Portfólio-E07A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
   </a>
@@ -27,7 +27,7 @@
 
   <br/><br/>
 
-  <!-- Divisor Gráfico Suave (Onda Noturna / Tons de Sunset) -->
+  <!-- Divisor Gráfico Suave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1e293b,50:0f172a,100:e07a5f&section=header" alt="Divisor" />
 
 </div>
@@ -49,7 +49,6 @@ Minha experiência anterior no atendimento ao público e conferência minuciosa 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <!-- Grid de ícones com tema dark para destacar do fundo branco -->
   <img src="https://skillicons.dev/icons?i=py,flask,html,css,js,mysql,postgres,sqlite,php,git,github,vscode&perline=6&theme=dark" alt="Tecnologias" />
 </div>
 
@@ -111,21 +110,20 @@ Minha experiência anterior no atendimento ao público e conferência minuciosa 
 ### 📊 Atividade & Consistência
 
 <div align="center">
-  <!-- Card escuro personalizado que cria bloco sólido contra fundo claro -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iwnldev&theme=react-dark&bg_color=1e293b&color=e07a5f&line=e07a5f&point=cbd5e1&hide_border=true&border_radius=8" width="100%" alt="Gráfico de Atividade" />
+  <img src="https://streak-stats.demolab.com/?user=iwnldev&theme=dark&background=1E293B&border=E07A5F&stroke=E07A5F&ring=E07A5F&fire=E07A5F&currStreakLabel=E07A5F&sideNums=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&hide_border=true" width="90%" alt="Sequência de Atividade GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
 
-  <!-- Divisor gráfico invertido para transição ao rodapé -->
+  <!-- Divisor gráfico invertido -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:e07a5f,50:0f172a,100:1e293b&section=footer" alt="Divisor" />
 
   <br/><br/>
 
-  <!-- Imagem de Estratégia / Rodapé -->
-  <img width="65%" src="./shogi.jpg" alt="Shikamaru Nara - Pensamento Estratégico" style="border-radius: 10px;" />
+  <!-- Imagem 2: Rodapé (Shikamaru jogando Shogi) -->
+  <img width="65%" src="./shogi.jpg?v=2" alt="Shikamaru Nara - Pensamento Estratégico" />
 
   <br/><br/>
 
