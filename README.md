@@ -1,102 +1,132 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b0d,50:3b0764,100:b829ff&text=Diego%20Azevedo&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Python%20%7C%20Web%20%7C%20Banco%20de%20Dados&descSize=15&descAlignY=58" alt="Diego Azevedo | Desenvolvimento de Software"/>
+<!-- Substitua o link abaixo pelo caminho do seu banner (ex: assets/banner.png ou o link do arquivo no GitHub) -->
+<img width="100%" src="https://raw.githubusercontent.com/iwnldev/iwnldev/main/banner.png" alt="Banner Shikamaru Nara"/>
 
-**Estudante de Análise e Desenvolvimento de Sistemas · UNIFAN**
+<br/>
 
-Em busca da primeira oportunidade de **estágio em tecnologia**.
+# Diego Azevedo
+
+**Estudante de Análise e Desenvolvimento de Sistemas · UNIFAN**  
+*Em busca da primeira oportunidade de estágio em tecnologia.*
+
+<br/>
 
 <a href="https://iwnldev.github.io/Portf-lio-Diego/">
-<img src="https://img.shields.io/badge/Portfólio-Visitar-b829ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Portfólio-b829ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
 </a>
 <a href="https://www.linkedin.com/in/diegoazevedoo/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=cf67ff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=b829ff" alt="LinkedIn"/>
 </a>
 <a href="https://iwnldev.github.io/Portf-lio-Diego/curriculo/curriculo-diego-azevedo.pdf">
-<img src="https://img.shields.io/badge/Currículo-PDF-0B0B0D?style=for-the-badge&logo=adobeacrobatreader&logoColor=cf67ff" alt="Currículo em PDF"/>
+  <img src="https://img.shields.io/badge/Currículo_PDF-0B0B0D?style=for-the-badge&logo=adobeacrobatreader&logoColor=b829ff" alt="Currículo em PDF"/>
+</a>
+<a href="mailto:seu-email@exemplo.com">
+  <img src="https://img.shields.io/badge/Contato-0B0B0D?style=for-the-badge&logo=gmail&logoColor=b829ff" alt="Email"/>
 </a>
 
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e aprendo construindo: cada conceito novo vira um projeto, e cada projeto me mostra o que ainda preciso estudar.
-
-Antes da tecnologia, trabalhei em um cartório de registro civil, com atendimento ao público e rotinas de conferência de documentos. Isso me ensinou organização, atenção aos detalhes e responsabilidade, e levo tudo isso para o código.
-
-**Neste momento estou focado em:**
-
-- Python e lógica de programação
-- Desenvolvimento web (HTML, CSS e JavaScript) e back-end com Flask
-- SQL e modelagem de bancos de dados
-- Inglês técnico
-
----
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,flask,html,css,js,mysql,postgres,sqlite,php,git,github,vscode&theme=dark" alt="Python, Flask, HTML, CSS, JavaScript, MySQL, PostgreSQL, SQLite, PHP, Git, GitHub e VS Code"/>
+<br/><br/>
 
 </div>
 
 ---
 
-## Projetos
+### 🧑‍💻 Sobre Mim
 
-### 📚 [DevStudy](https://github.com/iwnldev/DevStudy)
+Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em aprender na prática: transformo conceitos teóricos em código e novos desafios em projetos funcionais.
 
-Aplicativo web para organizar os estudos. Reúne anotações, as matérias do curso de ADS, exercícios corrigidos pelo servidor, flashcards com repetição espaçada, metas semanais e cronômetro Pomodoro. Cada pessoa tem sua própria conta e seus próprios dados.
+Minha trajetória começou no atendimento e na conferência documental de cartório de registro civil — uma vivência que consolidou minha **atenção aos detalhes**, **organização** e **responsabilidade**, qualidades que aplico diretamente na escrita de código limpo e arquitetura de dados.
 
-`Python` `Flask` `SQLite` `HTML` `CSS` `pytest`
+> *"Atualmente focado na construção de aplicações sólidas, regras de negócio bem modeladas e automação com Python."*
 
-*Em desenvolvimento.*
+<br/>
 
-### 🚗 [AutoParK](https://github.com/iwnldev/AutoParK)
+### 🛠️ Tecnologias & Ferramentas
 
-Sistema de gerenciamento de estacionamento, desenvolvido **em dupla** para a disciplina de Banco de Dados. Controla entrada e saída de veículos, vagas, mensalistas e o fechamento do caixa, com cálculo do valor pelo tempo de permanência.
+<div align="center">
 
-`MySQL` `SQL` `Python` `Flask` `PHP`
+<img src="https://skillicons.dev/icons?i=py,flask,html,css,js,mysql,postgres,sqlite,git,github,vscode,linux&perline=6&theme=dark" alt="Tecnologias"/>
 
-*Em desenvolvimento.*
+</div>
 
-### 🌐 [Portfólio pessoal](https://github.com/iwnldev/Portf-lio-Diego)
+<br/>
 
-Site com minha trajetória, formação, cursos e projetos. Feito do zero, com layout responsivo, menu acessível e formulário de contato. [Ver no ar →](https://iwnldev.github.io/Portf-lio-Diego/)
+### 🚀 Projetos em Destaque
 
-`HTML` `CSS` `JavaScript`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/iwnldev/DevStudy">DevStudy</a></h4>
+      <p>Plataforma web para organização acadêmica individual. Inclui repetição espaçada com flashcards, exercícios corrigidos via backend, cronômetro Pomodoro integrado e metas de estudo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/iwnldev/AutoParK">AutoParK</a></h4>
+      <p>Sistema completo de controle de estacionamento feito em dupla para a disciplina de Banco de Dados. Gerencia fluxo de vagas, cálculo automatizado de permanência e fechamento financeiro.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://iwnldev.github.io/Portf-lio-Diego/">Portfólio Pessoal</a></h4>
+      <p>Hub central apresentando trajetória, formação acadêmica e portfólio de projetos com layout moderno, acessível e 100% responsivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐾 <a href="https://github.com/iwnldev/PetLife">PetLife</a></h4>
+      <p>Landing page construída durante a imersão em desenvolvimento web, exercitando manipulação do DOM com JS, semântica web e design responsivo com CSS moderno.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🐾 [PetLife](https://github.com/iwnldev/PetLife)
+<br/>
 
-Página desenvolvida durante os estudos de desenvolvimento web, praticando estrutura com HTML, estilização com CSS e interações com JavaScript.
+### 📈 Estatísticas do GitHub
 
-`HTML` `CSS` `JavaScript`
+<div align="center">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=iwnldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwnldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas"/>
+</div>
 
----
+<br/>
 
-## Estudando agora
+### 🎯 Foco Atual & Certificações
 
-- **Formação Python** · OneBitCode
-- **Algoritmos e Lógica de Programação** · Udemy
-- **Inglês**
-
-**Certificações:** Python Essentials 1 (Cisco Networking Academy / OpenEDG) · Data Literacy (IBM SkillsBuild)
+- 📚 **Estudos em andamento:** Formação Python (OneBitCode), Algoritmos e Resolução de Problemas, Estruturas de Dados e Inglês Técnico.
+- 🎓 **Certificações obtidas:**
+  - *Python Essentials 1* — Cisco Networking Academy / OpenEDG
+  - *Data Literacy* — IBM SkillsBuild
 
 ---
 
 <div align="center">
 
-## Vamos conversar?
+### 🤝 Vamos nos conectar?
 
-Estou aberto a oportunidades de estágio e a trocar experiências com quem também está começando ou já atua na área.
+Estou disponível para novas conexões, colaborações em projetos e oportunidades de estágio.
 
-<a href="https://www.linkedin.com/in/diegoazevedoo/">LinkedIn</a> ·
-<a href="https://iwnldev.github.io/Portf-lio-Diego/">Portfólio</a> ·
-<a href="https://github.com/iwnldev?tab=repositories">Repositórios</a>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:b829ff,50:3b0764,100:0b0b0d" alt=""/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=b829ff)](https://www.linkedin.com/in/diegoazevedoo/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0B0B0D?style=for-the-badge&logo=googlechrome&logoColor=b829ff)](https://iwnldev.github.io/Portf-lio-Diego/)
+[![Repositórios](https://img.shields.io/badge/-Repositórios-0B0B0D?style=for-the-badge&logo=github&logoColor=b829ff)](https://github.com/iwnldev?tab=repositories)
 
 </div>
