@@ -78,7 +78,7 @@ Minha experiência anterior no atendimento ao público e conferência minuciosa 
         <img src="https://img.shields.io/badge/Flask-1E293B?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=A855F7"/>
       </p>
-      <sub>Status: 🚧 <i>Em desenvolvimento</i></sub>
+      <sub>Status: ✅ <i>Concluído</i></sub>
     </td>
   </tr>
   <tr>
